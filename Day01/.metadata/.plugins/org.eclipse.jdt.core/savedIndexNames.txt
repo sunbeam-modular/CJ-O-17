@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Training\Courses\Modular\CJ-O-17\Day01\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+452896325.index
+559163466.index
